@@ -1,12 +1,13 @@
 {
   "scriptVersion": 1,
   "id": "ui-test-phone-v2",
-  "title": "捡手机",
-  "description": "仅用于界面测试，不含剧情",
+  "title": "左奇函的手机",
+  "description": "左奇函的手机内容",
   "revision": 2,
   "phone": {
-    "owner": "机主",
-    "date": "2026-10-25",
+    "owner": "左奇函",
+    "passcode": "100601",
+    "date": "2026-11-08",
     "time": "09:41",
     "battery": 94,
     "network": "5G",
