@@ -114,21 +114,37 @@
       ]
     },
     {
-      "id": "test-chat-wechat",
-      "app": "wechat",
-      "title": "测试会话",
-      "participants": [
-        "owner",
-        "test-contact"
-      ],
-      "messages": [
-        {
-          "id": "test-message-wechat",
-          "body": "这是一条测试消息。",
-          "senderId": "test-contact"
-        }
-      ]
+  "id": "test-chat-wechat",
+  "app": "wechat",
+  "title": "杨博文",
+  "participants": [
+    "owner",
+    "test-contact"
+  ],
+  "messages": [
+    {
+      "id": "msg-wx-1", "body": "这个密室可以玩手机", "senderId": "owner"
     },
+    {
+      "id": "msg-wx-2", "body": "嗯", "senderId": "test-contact"
+    },
+    {
+      "id": "msg-wx-3", "body": "————— 三分钟后—————", "senderId": "system"
+    },
+    {
+      "id": "msg-wx-4", "body": "晚安", "senderId": "test-contact"
+    },
+    {
+      "id": "msg-wx-5", "body": "恩", "senderId": "owner"
+    },
+    {
+      "id": "msg-wx-6", "body": "下来了吗", "senderId": "owner"
+    },
+    {
+      "id": "msg-wx-7", "body": "[草稿] 讨厌死你了！", "senderId": "owner"
+    }
+  ]
+},
     {
       "id": "test-chat-qq",
       "app": "qq",
