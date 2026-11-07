@@ -499,13 +499,134 @@
       }
     ],
     "netease": [
-      {
-        "id": "test-item-netease",
-        "title": "测试内容",
-        "body": "这是一条测试内容。",
-        "sender": "测试用户",
-        "kind": "text",
-        "meta": {}
+     {
+    "id": "playlist-name", "title": "For You", "body": "左奇函和杨博文的专属歌单", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-1", "title": "How You Love Me", "body": "Hardwell / Conor Maynard / Snoop Dogg", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-2", "title": "Careless Whisper", "body": "Brian McKnight / Kenny G", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-3", "title": "Stuck with U", "body": "Ariana Grande / Justin Bieber", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-4", "title": "Someone You Loved", "body": "Conor Maynard", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-5", "title": "空白格", "body": "蔡健雅", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-6", "title": "晚风", "body": "陈婧霏", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-7", "title": "Happy", "body": "Pharrell Williams", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-8", "title": "离开地球表面", "body": "五月天", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-9", "title": "像我这样的人", "body": "毛不易", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-10", "title": "出山", "body": "花粥 / 王胜娚", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-11", "title": "FALL", "body": "艾志恒Asen", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-12", "title": "桥豆麻袋", "body": "陈粒", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-13", "title": "天下", "body": "张杰", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-14", "title": "不潮不用花钱", "body": "林俊杰", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-15", "title": "夏天的风", "body": "火羊瞌睡了", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-16", "title": "Way Back Home", "body": "SHAUN / Conor Maynard / Sam Feldt", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-17", "title": "Hate How Much I Love You", "body": "Conor Maynard", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-18", "title": "Still D.R.E.", "body": "Dr. Dre / Snoop Dogg", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-19", "title": "Hometown Hero", "body": "Abo Bakr / kkluv", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-20", "title": "今天你要嫁给我", "body": "蔡依林 / 陶喆", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-21", "title": "成都", "body": "赵雷", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-22", "title": "说散就散", "body": "袁娅维TIA RAY", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-23", "title": "全部都是你", "body": "DP龙猪 / 宝尧 / 云云", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-24", "title": "夏至未至", "body": "胡夏", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-25", "title": "小半", "body": "陈粒", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-26", "title": "NO BYSTANDERS", "body": "Travis Scott", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-27", "title": "逆战", "body": "张杰", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-28", "title": "水晶 (Live)", "body": "GALI", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-29", "title": "嘻哈帝国", "body": "Higher Brothers", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-30", "title": "我们打着光脚在风车下跑", "body": "等一下回家 / 艾狗", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-31", "title": "Lover Boy 88", "body": "Higher Brothers / Phum Viphurit", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-32", "title": "Keanu Reeves", "body": "Logic", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-33", "title": "国王与法老", "body": "杨和苏KeyNG / 法老", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-34", "title": "乌云中", "body": "艾热 AIR", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-35", "title": "Do That", "body": "马思唯", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-36", "title": "冷战", "body": "TizzyT / 万妮达", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-37", "title": "超级英雄狂想曲", "body": "大张伟", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-38", "title": "Trouble Is A Friend", "body": "Lenka", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-39", "title": "Kill The Game", "body": "Round_2 / 贰万 / 早安", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-40", "title": "珍珠幻象 (Live)", "body": "GALI", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-41", "title": "真没睡", "body": "姜云升", "sender": "左奇函", "kind": "text", "meta": {}
+  },
+  {
+    "id": "netease-42", "title": "千里万里", "body": "艾热 AIR", "sender": "左奇函", "kind": "text", "meta": {}
       }
     ],
     "delivery": [
